@@ -1,6 +1,5 @@
 # Деконструкция новостей
 # Topic modeling - Named-entity recognition - Exploratory data analysis
-## Elbrus bootcamp - 2022 - Final project
 
 ### Деконструкция новостей - это пакет инструментов для динамичного и адаптивного анализа большого корпуса постов ТГ каналов. 
 
